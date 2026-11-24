@@ -1,11 +1,11 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import About from './components/About'
-import Features from './components/Features'
-import Story from './components/Story'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
+import Hero from './sections/Hero'
+import About from './sections/About'
+import Features from './sections/Features'
+import Story from './sections/Story'
+import Contact from './sections/Contact'
+import Footer from './sections/Footer'
 
 const App = () => {
   return (
